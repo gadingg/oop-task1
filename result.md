@@ -21,3 +21,10 @@ Ini adalah tampilan hasil dari program yang telah dibuat.
 
 
 ![interface](https://user-images.githubusercontent.com/40866806/136699897-ddd84b78-d748-4adf-a381-e6c5a306934a.PNG)
+
+
+4. polymorphism
+
+
+
+![polymorphism](https://user-images.githubusercontent.com/40866806/136700280-76da763d-8dea-4f89-aa71-237201e3deb2.PNG)
